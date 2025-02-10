@@ -1,0 +1,62 @@
+# Global
+.env
+.vscode/
+.next/
+.vercel/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.egg-info/
+*.tox/
+*.nox/
+*.coverage
+*.hypothesis/
+.venv/
+
+# Go
+bin/
+pkg/
+vendor/
+*.test
+*.out
+go.sum
+go.mod
+
+# Docker
+.docker/
+docker-compose.override.yml
+docker-compose.yml
+*.tar
+*.tar.gz
+
+# C/C++
+build/
+bin/
+obj/
+*.o
+*.a
+*.so
+*.exe
+*.out
+*.app
+*.dSYM/
+*.pdb
+*.idb
+*.ilk
+
+# Logs
+*.log
+*.err
+*.out
